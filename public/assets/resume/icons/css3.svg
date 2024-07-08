@@ -1,0 +1,19 @@
+<svg
+    width="100"
+    height="100"
+    viewBox="0 0 64 64"
+    xmlns="http://www.w3.org/2000/svg"
+    aria-labelledby="title"
+    aria-describedby="desc"
+    role="img"
+>
+    <title>Cloud Computing AWS</title>
+    <desc>An icon representing cloud computing with the AWS logo</desc>
+    <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <path d="M32 48a14 14 0 110-28 14 14 0 010 28z" fill="#f0f0f0"/>
+        <path d="M25.09 21.09A10 10 0 0132 18a10 10 0 017.09 3.09A9.985 9.985 0 0142 28c0 5.52-4.48 10-10 10s-10-4.48-10-10a9.985 9.985 0 013.09-7.09z" fill="#f0f0f0"/>
+        <path d="M43 36H21" stroke="#ff9900"/>
+        <path d="M26 40h12" stroke="#ff9900"/>
+        <path d="M23 44h18" stroke="#ff9900"/>
+    </g>
+</svg>
